@@ -15,20 +15,20 @@ function Contact() {
           <article className='contact__option'>
             <MdOutlineEmail/>
             <h4>Email</h4>
-            <h5>shrey.@gami</h5>
-            <a href='mailto:shrey.super9440@gmail.com'>secd</a>
+            <h5>shrey.super9440@gmail.com</h5>
+            <a href='mailto:shrey.super9440@gmail.com'>send</a>
           </article>
           <article className='contact__option'>
             <MdOutlineEmail/>
             <h4>Linkedin</h4>
             <h5>shrey jain</h5>
-            <a href=''>secd</a>
+            <a href=''>open</a>
           </article>
           <article className='contact__option'>
             <MdOutlineEmail/>
             <h4>whatsap</h4>
             <h5>7869380160</h5>
-            <a href='https://api.whatsapp.com/send?phone=+917869380160'>secd</a>
+            <a href='https://api.whatsapp.com/send?phone=+917869380160'>send</a>
           </article>
         </div>
 
